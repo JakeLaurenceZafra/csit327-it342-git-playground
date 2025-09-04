@@ -17,4 +17,4 @@
 - Caranzo, Mac Howard (**@Howardness**)
 - Tabungar, Steven Jan (**@Smuffinn**)
 - verano, joel (**@VeranoJoel**)
-- Zafra, Jake Laurence (**JakeLaurenceZafra**)
+- Zafra, Jake Laurence (**@JakeLaurenceZafra**)
